@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Unleashing Hyperceiler LSposed Module: Customizing HyperOS on MIUI Devices
+title: Unleashing Hyperceiler LSposed Module Customizing HyperOS on MIUI Devices
 date: 2024-01-27
 lang: eng
 tagline: Enhance your MIUI experience with Hyperceiler LSposed module
